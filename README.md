@@ -93,7 +93,7 @@ A curated list of awesome Swift frameworks, libraries and software.
 * [ChenYilong/CYLTabBarController](https://github.com/ChenYilong/CYLTabBarController) - [EN]It is an iOS UI module library for adding animation to iOS tabbar items and icons with Lottie, Liquid Glass and adding a bigger center UITabBar Item.  [CN]【中国特色 TabBar】一行代码实现 Lottie 动画TabBar，支持中间带+号的TabBar样式，自带红点角标，支持动态刷新。【iOS26 & Dark Mode & iPhone 17 tested】
 * [qvacua/vimr](https://github.com/qvacua/vimr) - VimR — Neovim GUI for macOS in Swift
 * [ronitsingh10/FineTune](https://github.com/ronitsingh10/FineTune) - FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source alternative to SoundSource.
-* [yagcioglutoprak/dusty](https://github.com/yagcioglutoprak/dusty) - SwiftUI macOS menu bar cleaner for reclaiming disk space from safe caches, logs, Xcode data, and developer artifacts.
+* [yagcioglutoprak/dusty](https://github.com/yagcioglutoprak/dusty) - SwiftUI macOS menu bar cleaner for reclaiming disk space from caches, logs, Xcode data, and developer artifacts.
 * [huri000/SwiftEntryKit](https://github.com/huri000/SwiftEntryKit) - SwiftEntryKit is a presentation library for iOS. It can be used to easily display overlays within your iOS apps.
 * [blinksh/blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
 * [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
